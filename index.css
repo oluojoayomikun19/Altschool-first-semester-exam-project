@@ -125,12 +125,12 @@ header img{
     display:flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-    margin-left:130px;
+    width:100%;
+    margin-left:100px;
   }
   .home a{
-    font-size: 23px;
-    margin-left: -55px;
+    font-size: 21px;
+    margin-left: -40px;
   }
   .log-in{
     margin-left: 69px;
