@@ -296,11 +296,9 @@ section img{
     overflow: hidden;
   }
   .access{
-    /* width: 350px; */
     width: 100%;
     max-width: 100%;
     margin-left: -40px;
-    /* margin-top: -40px; */
   }
   .access h2{
     font-size: 20px;
@@ -434,7 +432,6 @@ article, .form {
 @media screen and (max-width: 480px){
   article{
     margin-top: 40px;
-    /* margin-left: -300px; */
     margin-left: 0px; 
     width: 100%;
     max-width: 100%;
@@ -444,14 +441,11 @@ article, .form {
   article h3{
     font-size: 21px;
     width: 420px;
-    /* margin-left: 100px; */
     margin-left: 0;
     padding-left:0px;
   }
   article p{
-    /* margin-left: 100px; */
     height: 190px;
-    /* width: 380px; */
     width: 100%;
     max-width: 100%;
     font-size: 18px;
@@ -459,13 +453,11 @@ article, .form {
   .track{
     margin-top: -30px;
     flex-direction: column;
-    /* margin-left: -26px; */
     margin-left:0px;
     width: 100%;
     max-width: 100%;
   }
   .Analytics{
-    /* margin-left: 130px; */
     margin-left: 0px;
     height: 330px;
     width:290px;
@@ -475,7 +467,6 @@ article, .form {
     margin-left: -5px;
   }
   .social{
-    /* margin-left: 130px; */
     height: 330px;
     width: 290px;
     max-width: 100%;
@@ -487,7 +478,6 @@ article, .form {
     margin-left: 10px;
   }
   .content{
-    /* margin-left: 130px; */
     margin-left: 0px;
     height: 330px;
     width: 290px;
@@ -714,17 +704,14 @@ aside img{
   .great{
     width: 100%;
     max-width: 100%;
-    /* margin-left: -130px; */
     margin-top: -20px;
   }
   .great h3{
     font-size: 22px;
-    /* width: 300px; */
     width: 250px;
     max-width: 100%;
   }
   .great p{
-    /* width: 300px; */
     width: 250px;
     max-width: 100%;
     font-size: 18px;
@@ -812,7 +799,6 @@ footer img{
   }
   .trending{
     gap: 12px;
-    /* width: 400px; */
     width: 100%;
     max-width: 100%;
     margin-top: -100px;
